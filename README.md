@@ -1,19 +1,19 @@
-# array-random
+# ARI (Array Random Item)
 > Returns a random item from an array.
 
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
 ```sh
-$ npm install --save array-random
+$ npm install --save array-random-item
 ```
 
 ## Usage
 
 ```js
-const arrayRandom = require('array-random);
+const ari = require('array-random);
 
-console.log(arrayRandom([1, 2, 3])); // => 2
+console.log(ari([1, 2, 3])); // => 2
 ```
 
 ### License
