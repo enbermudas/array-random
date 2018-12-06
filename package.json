@@ -1,0 +1,23 @@
+{
+  "name": "array-random",
+  "version": "1.0.0",
+  "description": "Returns a random item from an array.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enbermudas/array-random.git"
+  },
+  "author": "Enrique Bermúdez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enbermudas/array-random/issues"
+  },
+  "homepage": "https://github.com/enbermudas/array-random#readme"
+}
