@@ -11,7 +11,7 @@ $ npm install --save array-random-item
 ## Usage
 
 ```js
-const ari = require('array-random);
+const ari = require('array-random');
 
 console.log(ari([1, 2, 3])); // => 2
 ```
