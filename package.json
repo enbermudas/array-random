@@ -1,6 +1,6 @@
 {
   "name": "array-random-item",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Returns a random item from an array.",
   "main": "index.js",
   "dependencies": {},
